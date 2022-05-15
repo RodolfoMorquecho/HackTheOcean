@@ -1,0 +1,77 @@
+body{
+  width: 100%;
+  background-image: url(../img/tienda/fondo.png);
+  font-family: sans-serif;
+  color: rgb(216, 8, 235);
+  height: 700px;
+  background-attachment: fixed;
+  background-size: cover;
+}
+/*Aqui empieza el menu */
+.containerMenu{
+  width: 100%;
+  height: 50px;
+  background: black;
+}
+.menu{
+  list-style: none;
+  padding: 0;
+  background: #000;
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
+  display: flex;
+}
+.menu li a{
+  margin-left: 85px;
+  text-decoration: none;
+  color: #fff;
+  padding: 15px;
+  display: flex;
+}
+.menu li{
+  display: flex;
+  text-align: center;
+}
+.menu li a:hover{
+  background: #004EC6;
+}
+/*Aqui acaba el menu*/
+
+.card{
+  background-color: bisque;
+  border: 3px solid#004EC6;
+  color: rgb(87, 100, 218);
+  height: 30em;
+}
+
+.card1{
+  background-color: bisque;
+  border: 3px solid#004EC6;
+  color: rgb(87, 100, 218);
+  height: 33em;
+}
+
+.btn{
+  height: 3em;
+  background-color: aquamarine;
+  color: #f87e0b;
+  border: 3px solid#fd2306; 
+}
+
+.btn:hover{
+  height: 3em;
+  background-color: aquamarine;
+  color: #130d09;
+  border: 3px solid#7dfd06;
+  
+}
+
+.footer{
+  height: 3em;
+  background-color: rgb(113, 101, 219);
+  color: #130d09;
+  border: 3px solid#0606f5;
+  text-align: center;
+
+}

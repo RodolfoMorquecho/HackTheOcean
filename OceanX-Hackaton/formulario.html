@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <script src="https://kit.fontawesome.com/363af79b6a.js" crossorigin="anonymous"></script>
+    <title>OceanX</title>
+</head>
+<body>
+    <div class="vistaFormulario">
+        <div class="containerMenu">
+            <ul class="menu">
+                <li><a href="./index.html">Inicio</a></li>
+                <li><a href="./nosotros.html">Nosotros</a></li>
+                <li><a href="./formulario.html">Formulario</a></li>
+                <li><a href="./registrarse.html">Registrarse</a></li>
+                <li><a href="./tienda.html">Tienda</a></li>
+                <li><a href="./acceder.html">Acceder</a></li>
+            </div>
+        </div>
+        <div class="containerForm">
+            <h1>Formulario</h1>
+            <form>
+                <p id="usuario">Nombre completo / Usuario</p>
+                <input class="controls1" type="text" name="nombre" placeholder="Nombre completo o Usuario">
+                <p id="numCoordenadas">Ingresa las coordenadas</p>
+                <input class="controls2" type="number" name="coordenadas" placeholder="Coordenadas">
+                <p id="regionPro">Region de la problematica</p>
+                <input class="controls3" type="text" name="region" placeholder="Estado del lugar del problema">
+                <p id="momento">Fecha</p>
+                <input class="controls4" type="datetime-local" name="fecha">
+                <p class="dialog1">Selecciona la problematica</p>
+                <input type="radio" id="redes" name="problema" value="redes">
+                <label class="controls5" for="redes">Redes de arrastre</label>
+                <input type="radio" id="basura" name="problema" value="basura">
+                <label class="controls6" for="basura">Basura en la playa</label>
+                <p class="dialog2">Selecciona el nivel de urgencia</p>
+                <input type="radio" id="baja" name="urgencia" value="baja">
+                <label class="controls7" for="baja">Baja</label>
+                <input type="radio" id="media" name="urgencia" value="media">
+                <label class="controls8" for="media">Media</label>
+                <input type="radio" id="alta" name="urgencia" value="alta">
+                <label class="controls9" for="alta">Alta</label>
+
+                <p class="dialog3">Exponga los hechos del problema de la manera mas explicita y detallada para<br>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;llevar a cabo de la mejor forma nuestro actuar.</p>
+                <input class="controls10" type="text" id="evento" name="hechos" value="evento" placeholder="Redacte los hechos">
+                <input class="controls11" type="submit" value="enviar">
+            </form>
+        </div>
+        
+        <div class="containerFoot">
+            <div class="footer2"><p>OceanX(Hack the Overfishing)  -  Todos los derechos reservados</p>
+        </div>
+        
+    </div>
+</body>
+</html>

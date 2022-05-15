@@ -1,0 +1,498 @@
+*{                              /*Elimina margen externo e interno de la la hoja o caja mayor*/
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100%;
+    background-image: url(../img/imagenFondo.jpg);  /*Se agrego doble punto debido al cambio de directorios(carpetas)*/
+    font-family: sans-serif;
+    color: #fff;
+    height: 700px;
+    background-attachment: fixed;
+    background-size: cover;
+}
+/*Aqui empieza el menu */
+.containerMenu{
+    width: 100%;
+    height: 50px;
+    background: black;
+}
+.menu{
+    list-style: none;
+    padding: 0;
+    background: #000;
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    display: flex;
+}
+.menu li a{
+    margin-left: 85px;
+    text-decoration: none;
+    color: #fff;
+    padding: 15px;
+    display: flex;
+}
+.menu li{
+    display: flex;
+    text-align: center;
+}
+.menu li a:hover{
+    background: #004EC6;
+}
+/*Aqui acaba el menu*/
+
+.containerSup{
+    width: 100%;
+    height: 300px;
+    display: flex;
+}
+.containerLogo{
+    width: 25%;
+    height: 100%;
+    position: relative;
+}
+.containerLogo img{
+    width: 235px;
+    height: 190px;
+    border-radius: 10px;
+    border: 3px solid #01FFFB;
+    margin-top: 55px;
+    margin-left: 90px;
+    position: relative;
+}
+.containerTexto{
+    width: 75%;
+    height: 300px;
+    position: relative;
+}
+.containerTexto h1{
+    margin-top: 30px;
+    margin-left: 225px;
+    font-size: 3.5rem;
+    -webkit-text-stroke:1.5px;
+    -webkit-text-stroke-color:#000;
+    position: absolute; 
+}
+.containerTexto p{
+    margin-top: 115px;
+    margin-left: 20px;
+    position: absolute;
+    font-size: 2.6rem;
+    -webkit-text-stroke:.8px;
+    -webkit-text-stroke-color:#000;
+}
+
+.containferInf{
+    width: 100%;
+    height: 300px;
+    position: relative;
+}
+.containerImages{
+    width: 65%;
+    height: 230px;
+    margin-top: 10px;
+    margin-left: 260px;
+    border-radius: 15px;
+    display: flex;
+}
+
+.imageIzq{
+    width: 50%;
+    height: 250px;
+    position: relative;
+}
+.imageIzq img{
+    width: 100%;
+    height: 100%;
+    border-radius: 15px 0 0 15px;
+    border: 4px solid #000;
+    position: absolute;
+}
+
+.imageDer{
+    width: 50%;
+    height: 250px;
+    border-radius: 15px;
+    position: relative;
+}
+.imageDer img{
+    width: 100%;
+    height: 100%;
+    border-radius: 0 15px 15px 0;
+    border: 4px solid #000;
+    position: absolute;
+}
+.flechaIzq button{
+    width: 40px;
+    height: 40px;
+    font-size: xx-large;
+    font-weight: 600;
+    margin-top: 100px;
+    margin-left: 20px;
+    background-color: rgba(255, 255, 255, .1);
+    box-shadow: rgba(2, 109, 250, 0.3) 1px 1px 15px 1px;
+    position: absolute;
+}
+.flechaIzq button:hover{
+    
+    color: #01FFFB;
+    box-shadow: 3px 3px 20px rgba(0, 0,0,.15) ;
+}
+.flechaDer button{
+    width: 40px;
+    height: 40px;
+    font-size: xx-large;
+    font-weight: 600;
+    margin-top: 100px;
+    margin-left: 435px;
+    background-color: rgba(255, 255, 255, .1);
+    box-shadow: rgba(2, 109, 250, 0.3) 1px 1px 15px 1px;
+    position: absolute;
+}
+.flechaDer button:hover{
+    
+    color: #01FFFB;
+    box-shadow: 3px 3px 20px rgba(0, 0,0,.15) ;
+}
+.footer{
+    width: 80%;
+    height: 25px;
+    background: #004EC6;
+    margin-top: 100px;
+    margin-left: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    border: .2px solid #fff;
+}
+.footer p{
+    font-size: .9rem;
+}
+
+
+/* Style del apartado "Nosotros" */
+
+.seccionUno{
+    width: 100%;
+    height: 430px;
+    display: flex;
+}
+.containerTexto1{
+    width: 70%;
+    height: 100%;
+}
+.containerTexto1 h1{
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 2.2rem;
+    -webkit-text-stroke:1px;
+    -webkit-text-stroke-color:#000;
+    position: absolute; 
+}
+.containerTexto1 p{
+    margin-top: 75px;
+    margin-left: 30px;
+    position: absolute;
+    font-size: 1.7rem;
+    color: #000;
+    -webkit-text-stroke:.7px;
+    -webkit-text-stroke-color:#000;
+}
+.containerImg1{
+    width: 30%;
+    height: 100%;
+    position: relative;
+}
+.containerImg1 img{
+    width: 255px;
+    height: 300px;
+    border-radius: 10px;
+    border: 3px solid #01FFFB;
+    margin-top: 55px;
+    margin-left: 100px;
+    position: relative;
+}
+
+.seccionDos{
+    width: 100%;
+    height: 450px;
+    display: flex;
+}
+.containerImg2{
+    width: 30%;
+    height: 100%;
+    position: relative;
+}
+.containerImg2 img{
+    width: 370px;
+    height: 265px;
+    border-radius: 10px;
+    border: 3px solid #01FFFB;
+    margin-top: 60px;
+    margin-left: 70px;
+    position: relative;
+}
+.containerTexto2{
+    width: 70%;
+    height: 100%;
+}
+.containerTexto2 h1{
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 2.2rem;
+    -webkit-text-stroke:1px;
+    -webkit-text-stroke-color:#000;
+    position: absolute; 
+}
+.containerTexto2 p{
+    margin-top: 75px;
+    margin-left: 30px;
+    position: absolute;
+    font-size: 1.7rem;
+    color: #000;
+    -webkit-text-stroke:.7px;
+    -webkit-text-stroke-color:#000;
+}
+
+.seccionTres{
+    width: 100%;
+    height: 430px;
+    display: flex;
+}
+.containerTexto3{
+    width: 70%;
+    height: 100%;
+}
+.containerTexto3 h1{
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 2.2rem;
+    -webkit-text-stroke:1px;
+    -webkit-text-stroke-color:#000;
+    position: absolute; 
+}
+.containerTexto3 p{
+    margin-top: 75px;
+    margin-left: 30px;
+    position: absolute;
+    font-size: 1.7rem;
+    color: #000;
+    -webkit-text-stroke:.7px;
+    -webkit-text-stroke-color:#000;
+}
+.containerImg3{
+    width: 30%;
+    height: 100%;
+    position: relative;
+}
+.containerImg3 img{
+    width: 320px;
+    height: 255px;
+    border-radius: 10px;
+    border: 3px solid #01FFFB;
+    margin-top: 85px;
+    margin-left: 50px;
+    position: relative;
+}
+
+
+/*Style del apartado "Formulario" */
+
+
+.containerForm{
+    width: 800px;
+    height: 620px;
+    background-color: rgba(0, 255, 212, .4);
+    border: 3px solid #008BFE;
+    padding: 30px;
+    margin-top: 10px;
+    margin-left: 340px;
+    border-radius: 15px;
+    position: relative;
+}
+.containerForm h1{
+    font-size: 2rem;
+    margin-bottom: 20px;
+    margin-left: 300px;
+    position: absolute;
+}
+#usuario{
+    font-size: 1.1rem;
+    margin-top: 65px;
+    position: absolute;
+}
+.controls1{
+    width: 250px;
+    height: 25px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    margin-top: 90px;
+    position: absolute;
+}
+#numCoordenadas{
+    font-size: 1.1rem;
+    margin-top: 135px;
+    position: absolute;
+}
+.controls2{
+    width: 250px;
+    height: 25px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    margin-top: 160px;
+    position: absolute;
+}
+#regionPro{
+    font-size: 1.1rem;
+    margin-top: 65px;
+    margin-left: 470px;
+    position: absolute;
+}
+.controls3{
+    width: 250px;
+    height: 25px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    margin-top: 90px;
+    margin-left: 470px;
+    position: absolute;
+}
+#momento{
+    font-size: 1.1rem;
+    margin-top: 135px;
+    margin-left: 470px;
+    position: absolute;
+}
+.controls4{
+    width: 250px;
+    height: 25px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    margin-top: 160px;
+    margin-left: 470px;
+    position: absolute;
+}
+.dialog1{
+    margin-top: 215px;
+    margin-left: 230px;
+    font-size: 1.3rem;
+    color: #000;
+    position: absolute;    
+}
+.controls5{
+    color: blue;
+    font-size: 1rem;
+    margin-top: 250px;
+    margin-left: 200px;
+    position: absolute;
+}
+#redes{
+    margin-top: 280px;
+    margin-left: 250px;
+    position: absolute;
+}
+.controls6{
+    font-size: 1rem;
+    color: blue;
+    margin-top: 250px;
+    margin-left: 370px;
+    position: absolute;
+}
+#basura{
+    margin-top: 280px;
+    margin-left: 410px;
+    position: absolute;
+}
+.dialog2{
+    margin-top: 315px;
+    margin-left: 210px;
+    font-size: 1.3rem;
+    color: #000;
+    position: absolute; 
+}
+.controls7{
+    color: blue;
+    font-size: 1rem;
+    margin-top: 350px;
+    margin-left: 230px;
+    position: absolute;
+}
+#baja{
+    margin-top: 380px;
+    margin-left: 240px;
+    position: absolute;
+}
+.controls8{
+    color: blue;
+    font-size: 1rem;
+    margin-top: 350px;
+    margin-left: 330px;
+    position: absolute;
+}
+#media{
+    margin-top: 380px;
+    margin-left: 340px;
+    position: absolute;
+}
+.controls9{
+    color: blue;
+    font-size: 1rem;
+    margin-top: 350px;
+    margin-left: 440px;
+    position: absolute;
+}
+#alta{
+    margin-top: 380px;
+    margin-left: 450px;
+    position: absolute;
+}
+.dialog3{
+    margin-top: 410px;
+    margin-left: 90px;
+    color: blue;
+    font-size: 1rem;
+    position: absolute;    
+}
+.controls10{
+    width: 560px;
+    height: 50px;
+    margin-top: 460px;
+    margin-left: 90px;
+    position: absolute; 
+    border-radius: 10px;
+}
+.controls11{
+    width: 150px;
+    height: 30px;
+    margin-top: 530px;
+    margin-left: 300px;
+    font-size: 1rem;
+    color: #fff;
+    background: #000;
+    position: absolute; 
+    border-radius: 10px;
+}
+.containerFoot{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.footer2{
+    width: 80%;
+    height: 25px;
+    background: #004EC6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    border: .2px solid #fff;
+}
+.footer2 p{
+    font-size: .9rem;
+}
