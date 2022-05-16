@@ -38,5 +38,7 @@ Tambien tenemos el apartado de que si algun civil observa basura/desechos/argazo
 ## Rutas para interactuar con el sitio Web
 ![diagrama](https://user-images.githubusercontent.com/99112892/168501762-cc297dc2-d137-41af-ae29-58f3236ac5e6.jpg)
 
+
+
 ![diagrama2](https://user-images.githubusercontent.com/99112892/168501768-a5310c5f-607d-4f38-999d-1ed61078802a.jpg)
 
