@@ -110,11 +110,13 @@ Tambien tenemos el apartado de que si algun civil observa basura/desechos/argazo
 ![Esquema de Trabajo](https://user-images.githubusercontent.com/99112892/168506568-5124e348-66fa-42db-8704-8b17f9a00777.jpg)
 
 
+## Créditos (OceanX Team)
 
-
-
-
-
+[Brhayan Ramos Gamboa](https://github.com/BrhayanRamosG)
+[Armando Vasquez Ambrocio](https://github.com/ArmVasquez)
+[Sandra Fabiola Morales Mateos](https://github.com/FabiMateosCat)
+[Omar Alejandro Trujillo](https://github.com/MazinoXX)
+[Rodolfo Ivan Morquecho](https://github.com/RodolfoMorquecho)
 
 
 
