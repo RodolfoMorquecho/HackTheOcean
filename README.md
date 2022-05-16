@@ -42,3 +42,28 @@ Tambien tenemos el apartado de que si algun civil observa basura/desechos/argazo
 
 ![diagrama2](https://user-images.githubusercontent.com/99112892/168501768-a5310c5f-607d-4f38-999d-1ed61078802a.jpg)
 
+## Diseño del proyecto
+
+![menu_Inicio](https://user-images.githubusercontent.com/99112892/168502167-500dbf3a-0797-41cf-9f49-d37dcbae6652.png)
+
+![menu_Nosotros](https://user-images.githubusercontent.com/99112892/168502186-aafdf819-c09d-4d69-958b-8b523dde2c50.png)
+
+![menu_Form](https://user-images.githubusercontent.com/99112892/168502193-cba43516-5ddb-414c-b69e-0f81e741711a.png)
+
+![menu_Registrarse](https://user-images.githubusercontent.com/99112892/168502202-190a02cd-a94a-4e68-bc7f-019b3ebfc23f.png)
+
+![menu_Tienda](https://user-images.githubusercontent.com/99112892/168502210-b9ad171d-2a00-49ed-8b62-77a7506f5281.png)
+
+![menu_Compra](https://user-images.githubusercontent.com/99112892/168502216-f23af89d-3424-48f4-8ed8-f056c70c29bb.png)
+
+![menu_Perfil](https://user-images.githubusercontent.com/99112892/168502236-e4fffdb5-8200-4332-b8b1-650667c31225.png)
+
+![menu_Validacion](https://user-images.githubusercontent.com/99112892/168502240-9148c700-9f5c-45db-92a8-452aa35496ed.png)
+
+
+
+
+
+
+
+
