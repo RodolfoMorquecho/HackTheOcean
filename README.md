@@ -42,7 +42,7 @@ Tambien tenemos el apartado de que si algun civil observa basura/desechos/argazo
 
 ![diagrama2](https://user-images.githubusercontent.com/99112892/168501768-a5310c5f-607d-4f38-999d-1ed61078802a.jpg)
 
-## Diseño del proyecto
+## Diseño del proyecto (UI)
 
 ![menu_Inicio](https://user-images.githubusercontent.com/99112892/168502167-500dbf3a-0797-41cf-9f49-d37dcbae6652.png)
 
@@ -59,6 +59,23 @@ Tambien tenemos el apartado de que si algun civil observa basura/desechos/argazo
 ![menu_Perfil](https://user-images.githubusercontent.com/99112892/168502236-e4fffdb5-8200-4332-b8b1-650667c31225.png)
 
 ![menu_Validacion](https://user-images.githubusercontent.com/99112892/168502240-9148c700-9f5c-45db-92a8-452aa35496ed.png)
+
+
+## Diseño del proyecto (UX)
+
+![vista1](https://user-images.githubusercontent.com/99112892/168502419-dda3436b-6913-4f48-a759-2b73a7de449b.png)
+
+![vista2](https://user-images.githubusercontent.com/99112892/168502423-69258a14-25c8-48b0-83d8-69982646a21f.png)
+
+![vista3](https://user-images.githubusercontent.com/99112892/168502428-5a7bec54-92d2-4f23-ac65-8fcdff53c433.png)
+
+![vista4](https://user-images.githubusercontent.com/99112892/168502437-b51e8947-98cb-452f-b6f4-3c25a3e1b693.png)
+
+![vista5](https://user-images.githubusercontent.com/99112892/168502440-53cc9dbc-ff31-408d-89ee-1afa2c16d4af.png)
+
+
+
+
 
 
 
