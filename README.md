@@ -29,3 +29,7 @@ oceano, etc. Las cuales detecten anomalias como las ya mencionadas , en caso de 
 Si llegaran a ver una red de pesca como las de arrastre pueden ir a nuesta sitio web, regitrarse e ingresar las coordenadas exactas de donde
 es que hizo el avistamiento, para que el grupo/comunidad/personas encargadas del medio ambiente mas cercano sea notificado y se cite al lugar.
 Tambien tenemos el apartado de que si algun civil observa basura/desechos/argazo en alguna playa puede realizar la misma accion que el buzo.
+
+## Objetivo
+-Difundir que la sobrepeca es la principal amenaza de nuestros oceanos
+-Crear una de las pocas alternativas existentes hoy en día para esta situación
