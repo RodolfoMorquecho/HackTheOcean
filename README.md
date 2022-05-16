@@ -48,7 +48,7 @@ Tambien tenemos el apartado de que si algun civil observa basura/desechos/argazo
 ![diagrama2](https://user-images.githubusercontent.com/99112892/168501768-a5310c5f-607d-4f38-999d-1ed61078802a.jpg)
 
 ## Tecnologias utilizadas 
-### HTML
+- HTML
 ### CSS
 ### Bootstrap
 ### Git
