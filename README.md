@@ -1,7 +1,9 @@
 # HackTheOcean
-Este proyecto fue dividido en dos repositorios en la parte frontend(esté) y la parte de backend que se puede encontrar en [Backend](https://github.com/BrhayanRamosG/backend-oceanx)
+Este proyecto fue dividido en dos repositorios en la parte frontend(esté) y la parte de backend que se puede encontrar en [BACKEND OCEANX](https://github.com/BrhayanRamosG/backend-oceanx)
 
 Documentación y archivos de la parte Fronted.
+
+### Pagina: https://armvasquez.github.io/HackTheOcean---OceanX/index.html
 
 
 ## Introducción
