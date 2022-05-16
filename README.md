@@ -49,13 +49,13 @@ Tambien tenemos el apartado de que si algun civil observa basura/desechos/argazo
 
 ## Tecnologias utilizadas 
 - HTML
-### CSS
-### Bootstrap
-### Git
-### Github
-### Balsamiq
-### Miro
-### Figma
+- CSS
+- Bootstrap
+- Git
+- Github
+- Balsamiq
+- Miro
+- Figma
 
 ![MicrosoftTeams-image](https://user-images.githubusercontent.com/99112892/168508382-8f9af9a6-6cd7-46db-a5e7-2a64d6c54f03.png)
 
