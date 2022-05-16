@@ -1,5 +1,8 @@
 # HackTheOcean
-Documentación y archivos de la parte Fronted del proyecto
+Este proyecto fue dividido en dos repositorios en la parte frontend(esté) y la parte de backend que se puede encontrar en [Backend](https://github.com/BrhayanRamosG/backend-oceanx)
+
+Documentación y archivos de la parte Fronted.
+
 
 ## Introducción
 Uno de los principales problemas que nos aquejan hoy en día es el cambio climatico, pareciera hace poco que se mencionaba sobre el tema pero lo
