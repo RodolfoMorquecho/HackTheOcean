@@ -33,3 +33,8 @@ Tambien tenemos el apartado de que si algun civil observa basura/desechos/argazo
 ## Objetivo
 -Difundir que la sobrepeca es la principal amenaza de nuestros oceanos
 -Crear una de las pocas alternativas existentes hoy en día para esta situación
+
+## Rutas para interactuar con el sitio Web
+![diagrama](https://user-images.githubusercontent.com/99112892/168501762-cc297dc2-d137-41af-ae29-58f3236ac5e6.jpg)
+![diagrama2](https://user-images.githubusercontent.com/99112892/168501768-a5310c5f-607d-4f38-999d-1ed61078802a.jpg)
+
