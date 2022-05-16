@@ -47,35 +47,50 @@ Tambien tenemos el apartado de que si algun civil observa basura/desechos/argazo
 
 ## Diseño del proyecto (UI)
 
+Pestaña Inicio
 ![menu_Inicio](https://user-images.githubusercontent.com/99112892/168502167-500dbf3a-0797-41cf-9f49-d37dcbae6652.png)
 
+Pestaña Nosotros
 ![menu_Nosotros](https://user-images.githubusercontent.com/99112892/168502186-aafdf819-c09d-4d69-958b-8b523dde2c50.png)
 
+Pestaña Formulario
 ![menu_Form](https://user-images.githubusercontent.com/99112892/168502193-cba43516-5ddb-414c-b69e-0f81e741711a.png)
 
+Pestaña Registro
 ![menu_Registrarse](https://user-images.githubusercontent.com/99112892/168502202-190a02cd-a94a-4e68-bc7f-019b3ebfc23f.png)
 
+Pestaña Tienda
 ![menu_Tienda](https://user-images.githubusercontent.com/99112892/168502210-b9ad171d-2a00-49ed-8b62-77a7506f5281.png)
 
+Pestaña Compra
 ![menu_Compra](https://user-images.githubusercontent.com/99112892/168502216-f23af89d-3424-48f4-8ed8-f056c70c29bb.png)
 
+Perfil
 ![menu_Perfil](https://user-images.githubusercontent.com/99112892/168502236-e4fffdb5-8200-4332-b8b1-650667c31225.png)
 
+Validación
 ![menu_Validacion](https://user-images.githubusercontent.com/99112892/168502240-9148c700-9f5c-45db-92a8-452aa35496ed.png)
 
 
 ## Diseño del proyecto (UX)
-
+Vista 1
 ![vista1](https://user-images.githubusercontent.com/99112892/168502419-dda3436b-6913-4f48-a759-2b73a7de449b.png)
 
+Vista 2
 ![vista2](https://user-images.githubusercontent.com/99112892/168502423-69258a14-25c8-48b0-83d8-69982646a21f.png)
 
+Vista 3
 ![vista3](https://user-images.githubusercontent.com/99112892/168502428-5a7bec54-92d2-4f23-ac65-8fcdff53c433.png)
 
+Vista 4
 ![vista4](https://user-images.githubusercontent.com/99112892/168502437-b51e8947-98cb-452f-b6f4-3c25a3e1b693.png)
 
+Vista 5
 ![vista5](https://user-images.githubusercontent.com/99112892/168502440-53cc9dbc-ff31-408d-89ee-1afa2c16d4af.png)
 
+## Esquema de Trabajo del equipo OceanX
+
+![Esquema de Trabajo](https://user-images.githubusercontent.com/99112892/168506568-5124e348-66fa-42db-8704-8b17f9a00777.jpg)
 
 
 
