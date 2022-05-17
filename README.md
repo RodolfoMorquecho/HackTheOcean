@@ -17,7 +17,7 @@ peligro de extinción peligra todo su entorno.
 
 Aunque los medios han enfocado toda la atención en articulos como los plasticos, popotes y basura en general como los principales enemigos del 
 oceano, no es así, el principal problema de los oceanos es la sobrepesca y sus metododos de llevarla a cabo, desde miles de críaderos instalados 
-en el mismo oceano hasta la pesca de arrastre, en la cual decidimos poner manos a la orde. 
+en el mismo oceano hasta la pesca de arrastre, en la cual decidimos poner manos a la orden. 
 
 ## Problematica
 Como se hace mención en la introducción, hallamos que la principal amenaza de los océanos es la sobrepesca y uno de los metodos mas devastadores
