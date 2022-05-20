@@ -8,7 +8,7 @@ Documentación y archivos de la parte Fronted.
 
 ## Introducción
 Uno de los principales problemas que nos aquejan hoy en día es el cambio climatico, pareciera hace poco que se mencionaba sobre el tema pero lo
-veíamos como un problema a larg plazo pero cada vez esta mas presente en nuestra atmosfera.
+veíamos como un problema a largo plazo pero cada vez esta mas presente en nuestra atmosfera.
 Si existe algun sector en nuestro planeta que trata de combatir indirectamente esa problematica, son los océanos y mares. Talvéz te preguntes
 como es que nos benefician, Investigando un poco sobre el tema nos enteramos que la flora del oceano absorbe mas del 85% del dioxido de carbono
 que generamos en la superficie, mas que los bosques, También nos percatamos de que las especies de gran tamaño como las ballenas y tiburones
