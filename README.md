@@ -24,11 +24,11 @@ Como se hace mención en la introducción, hallamos que la principal amenaza de 
 es la pesca de arrastre, la cual consiste en lanzar redes del largo de canchas de futbol y se entierran en el fondo de mar y al desplazarse el
 buque, va destruyendo y arrancando toda la flora de los suelos del oceano y tambien captura demasiadas tipo de especies que suelen desecharse 
 debido a que el pescado termina desecho y se descarta como un prducto. Despues de que estas redes se desgastan suelen ser tiradas en el mismo oceano
-y muchas espedcies terminan varadas ahi o algo peor, las redes terminan siendo tragadas por ballenas o tiburones lo que termina con su vida.
+y muchas especies terminan varadas ahí o algo peor, las redes terminan siendo tragadas por ballenas o tiburones lo que termina con su vida.
 
 ## Solución
 Lo ideal sería que todas estas flotas de buques fueran mas vigiladas y cumplieran con un reglamento de pesca pero es algo muy dificil porque 
-suelen ser parte de compañias muy importantes las que estan detras, con nuestro proyecto tratamos de formar una comunidad principalmente de
+suelen ser financiadas por compañias muy importantes las que estan detras, con nuestro proyecto tratamos de formar una comunidad principalmente de
 personas o profesionistas que suelan pasar la mayor parte de su vida cerca al mar como buzos, biologos marinos, habitantes que vivan cerca del
 oceano, etc. Las cuales detecten anomalias como las ya mencionadas , en caso de un buzo que habitualmente pasan mucho tiempo bajo el mar. 
 Si llegaran a ver una red de pesca como las de arrastre pueden ir a nuesta sitio web, regitrarse e ingresar las coordenadas exactas de donde
