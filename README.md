@@ -3,7 +3,7 @@ Este proyecto fue dividido en dos repositorios en la parte frontend(esté) y la 
 
 Documentación y archivos de la parte Fronted.
 
-### Pagina: https://armvasquez.github.io/HackTheOcean---OceanX/index.html
+### Pagina: [OceanX WebSite](https://armvasquez.github.io/HackTheOcean---OceanX/index.html)
 
 
 ## Introducción
